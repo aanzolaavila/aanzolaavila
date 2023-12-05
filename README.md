@@ -40,6 +40,10 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
+<div>
+    <img src="https://github.com/aanzolaavila/aanzolaavila/blob/master/images/codeStats.svg" alt="My coding activity"/>    
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanzolaavila&show_icons=true&locale=en&layout=compact" alt="aanzolaavila" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aanzolaavila&show_icons=true&locale=en" alt="aanzolaavila" /></p>
